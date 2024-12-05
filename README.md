@@ -1,7 +1,7 @@
 
 # SN Corp Dashboard
 
-![Dashboard Screenshot](./Screenshot%202024-09-21%20220712.png)
+![Dashboard Screenshot]()
 
 This is an interactive business intelligence dashboard created using **Microsoft Power BI**. The dashboard provides insights into sales, costs, and profits across different regions, customers, and sub-categories. It helps visualize and analyze business performance over time.
 
@@ -79,6 +79,6 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use, m
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:  
-**Email:** [Your Email Address]  
-**LinkedIn:** [Your LinkedIn Profile]  
+**Email:** [karthick261534@gmail.com]  
+**LinkedIn:** [Your LinkedIn Profil]  
 **GitHub:** [Your GitHub Profile]
