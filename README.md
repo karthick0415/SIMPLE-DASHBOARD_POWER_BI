@@ -1,7 +1,7 @@
 
 # SN Corp Dashboard
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/karthick0415/SIMPLE-DASHBOARD_POWER_BI/blob/main/DASHBOARDIMAGE.png)
 
 This is an interactive business intelligence dashboard created using **Microsoft Power BI**. The dashboard provides insights into sales, costs, and profits across different regions, customers, and sub-categories. It helps visualize and analyze business performance over time.
 
@@ -41,7 +41,7 @@ This is an interactive business intelligence dashboard created using **Microsoft
 ### How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/karthick0415/SIMPLE-DASHBOARD_POWER_BI>
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the different visuals and interact with the filters to gain insights.
@@ -50,9 +50,9 @@ This is an interactive business intelligence dashboard created using **Microsoft
 
 ## 🗂️ Project Structure
 
-- `Dashboard.pbix`: The Power BI dashboard file.
+- `power bi 21.pbix`: The Power BI dashboard file.
 - `README.md`: Project documentation.
-- `Screenshot.png`: Dashboard preview image.
+- `DASHBOARDIMAGE.png`: Dashboard preview image.
 
 ---
 
@@ -72,13 +72,9 @@ The dashboard is based on a sample dataset, containing information on:
 
 ---
 
-## 📝 License
-This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute it.
-
----
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:  
 **Email:** [karthick261534@gmail.com]  
-**LinkedIn:** [Your LinkedIn Profil]  
-**GitHub:** [Your GitHub Profile]
+**LinkedIn:** [https://www.linkedin.com/in/karthick-s0304/]  
+**GitHub:** [https://github.com/karthick0415]
