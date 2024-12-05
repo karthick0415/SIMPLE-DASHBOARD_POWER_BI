@@ -41,7 +41,7 @@ This is an interactive business intelligence dashboard created using **Microsoft
 ### How to Use
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/karthick0415/SIMPLE-DASHBOARD_POWER_BI>
+   git clone https://github.com/karthick0415/SIMPLE-DASHBOARD_POWER_BI
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the different visuals and interact with the filters to gain insights.
